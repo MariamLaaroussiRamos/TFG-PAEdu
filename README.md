@@ -9,3 +9,26 @@ La aplicación permite simplificar textos, adaptar exámenes, generar versiones 
 <p align="center">
   <img src="imagenes/interfaz_PAEdu.png" alt="Interfaz de PAEdu" width="900"/>
 </p>
+
+## Funcionalidades
+
+- Extracción de texto desde archivos PDF.
+- Simplificación automática de textos.
+- Adaptación de preguntas y exámenes.
+- Generación de versiones en lectura fácil.
+- Creación automática de un glosario de palabras complejas.
+- Generación de audio mediante síntesis de voz.
+- Exportación del resultado en formato PDF.
+
+## Tecnologías utilizadas
+
+- Python
+- Gradio
+- Hugging Face Transformers
+- FLAN-T5
+- PyTorch
+- PyMuPDF
+- spaCy
+- wordfreq
+- Kokoro TTS
+- ReportLab
