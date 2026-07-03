@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Gradio](https://img.shields.io/badge/Gradio-5.x-orange)
+![License](https://img.shields.io/badge/License-Academic-lightgrey)
+
 # PAEdu - Plataforma de Accesibilidad Educativa
 
 PAEdu es una plataforma web desarrollada como Trabajo de Fin de Grado que utiliza modelos de lenguaje de gran tamaño (LLM) para adaptar materiales educativos a las necesidades del alumnado con Necesidades Específicas de Apoyo Educativo (NEAE) y Trastorno del Espectro Autista (TEA).
@@ -32,3 +36,12 @@ La aplicación permite simplificar textos, adaptar exámenes, generar versiones 
 - wordfreq
 - Kokoro TTS
 - ReportLab
+
+
+## Autor
+
+**Mariam Laaroussi Ramos**
+
+Trabajo de Fin de Grado - Ingeniería Informática
+
+
