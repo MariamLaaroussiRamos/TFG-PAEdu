@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pdf
+!docs/imagenes/PAEdu_20260629_202635.pdf
+*.mp3
+.env
