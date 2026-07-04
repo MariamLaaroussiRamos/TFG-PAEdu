@@ -1,0 +1,12 @@
+transformers
+torch
+accelerate
+gradio
+sentencepiece
+pymupdf
+reportlab
+kokoro
+soundfile
+misaki[en]
+wordfreq
+spacy
